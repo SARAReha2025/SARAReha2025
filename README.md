@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>FISIOTERAPIA 
-  <style>
+    <img src="ruta/a/tu/logo.svg" alt="Logo" />  <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
     header { background: #2c3e50; color: white; padding: 20px; text-align: center; }
     header img { max-height: 60px; }
@@ -46,3 +46,7 @@
   </footer>
 </body>
 </html>
+<video controls>
+    <source src="ruta/a/tu/video.mp4" type="video/mp4">
+    Tu navegador no soporta este formato de video.
+</video>
