@@ -17,8 +17,7 @@
 </head>
 <body>
   <header>
-    <img src="https://chat.openai.com/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Fchat-openai-prod%2Fuser-uploads%2Ffile-1HJyyMZ4hLh1Gjhyx1wmDg%2Frehalife-logo.png&w=1920&q=75" alt="Rehalife Logo">
-    <h1>FISIOTERAPIA</h1>
+    
   </header>  <section>
     <h2>¿Quiénes somos?</h2>
     <p>Rehalife es una red de centros de fisioterapia avanzada y bienestar en Bolivia. Con tecnología alemana de punta, ofrecemos servicios como rehabilitación, masajes, estética, y más en espacios modernos y confortables.</p>
@@ -31,8 +30,7 @@
       <li>Masajes relajantes, antiestrés y descontracturantes</li>
       <li>Hidroterapia y mecanoterapia</li>
       <li>Estética y bienestar</li>
-    </ul>
-  </section>  <section class="video">
+    </ul><img src="ruta/a/tu/logo.png" alt="Logo">  </section>  <section descarga="video">
     <h2>Conócenos</h2>
     <video controls>
       <source src="https://chat.openai.com/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Fchat-openai-prod%2Fuser-uploads%2Ffile-YFt2znYnHWeeLQKzgoDjym%2Fvideo.mp4" type="video/mp4">
