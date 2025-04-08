@@ -36,89 +36,42 @@
 </head>
 <body>
     <header>
-        <h1>Rehalife Bolivia - Lista de Precios</h1>
-    </header>
+       git add .
+git commit -m "Sesión 	 Fisioterapia 180,00 
+Paquete 10 sesiones 	 1.740,00 
+Rehabilitación Post Operatoria hombro y rodilla 12 semanas	 8.100,00 
+Reha Sport 2 veces por semana	 1.000,00 
+Reha Sport 3 veces por semana	 1.500,00 
+CARDIOMETABOLICO	 200,00 
+ONDAS DE CHOQUE	 280,00 
+ACUPUNTURA	 150,00 
+RECOVERY PREMIUN	 150,00 
+HIDROTERAPIA	 150,00 
+LIBERACION MIOFASCIAL	 70,00 
+PUNCION SECA	 70,00 
+COLOCACIÓN DE TAPPING	 50,00 
+OSTEOPATIA	 250,00 
+Masaje Relajante	 170,00 
+Masaje Descontracturante	 170,00 
+Descarga deportiva	 180,00 
+Limpieza facial	 220,00 
+Embarazada	 200,00 
+Masaje Reflexología 30 min  	 120,00 
+Drenaje Linfático localizado 	 150,00 
+Madero terapia 	 200,00 
+Nutricion Consulta 	 150,00 
+Psicologia Consulta	 200,00 
+Psicologia Sesion	 250,00 
+Psicologia Paquete 12 sesiones  1.810,00 
+Sesión de 30 min	 120,00 
+Paquete Reflexología 2 :                                                 
+20 min masaje Reflexología 40 min masaje de cuerpo  170,00 
+Paquete Reflexología 1                                                      
+ 10 min. Hidroterapia miembros inferiores                       
+20 min masaje Reflexología	 120,00
+![image](https://github.com/user-attachments/assets/742cb454-5357-463b-afe6-d80bbb8bfeb1)
 
-    <main>
-        <section>
-            <h2>Fisioterapia</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Sesión</td>
-                    <td>180,00</td>
-                </tr>
-                <tr>
-                    <td>Paquete 10 sesiones</td>
-                    <td>1.740,00</td>
-                </tr>
-                <tr>
-                    <td>Rehabilitación Post Operatoria hombro y rodilla (12 semanas)</td>
-                    <td>8.100,00</td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
-            <h2>Reha Sport</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>2 veces por semana</td>
-                    <td>1.000,00</td>
-                </tr>
-                <tr>
-                    <td>3 veces por semana</td>
-                    <td>1.500,00</td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
-            <h2>Cardiometabólico</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Consulta</td>
-                    <td>200,00</td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
-            <h2>Otros Servicios</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Ondas de Choque</td>
-                    <td>280,00</td>
-                </tr>
-                <tr>
-                    <td>Acupuntura</td>
-                    <td>150,00</td>
-                </tr>
-                <tr>
-                    <td>Recovery Premium</td>
-                    <td>150,00</td>
-                </tr>
-                <tr>
-                    <td>Hidroterapia</td>
-                    <td>150,00</td>
-                </tr>
-                <tr>
-                    <td>Liberación Miofascial
+git push origin main
     <h2>Agenda tu cita</h2>
     <form action="mailto:riverosarita32@gmail.com" method="post" enctype="text/plain">
       <input type="text" name="nombre" placeholder="Nombre completo" required>
