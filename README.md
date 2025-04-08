@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SARAReha2025</title>
-    <link rel="stylesheet" href="css/styles.css"> <!-- Si tienes un archivo de estilo CSS -->
-</head>
-<body>
-    <header>
-        <img src="Descarga/rehalife_logo.png" alt="Logo de rehalife_logo.png" class="logo">
     </header>    <h1>Bienvenidos a Rehalife</h1>
     <p>En Rehalife Centro de Fisioterapia, te acompañamos en tu camino hacia una vida saludable y sin dolor. Ofrecemos atención personalizada con profesionales comprometidos con tu bienestar.</p>
   </section>  <section id="servicios">
