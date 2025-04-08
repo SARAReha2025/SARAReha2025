@@ -77,15 +77,6 @@
 ## Reflexología
 - **Paquete Reflexología 2 (20 min masaje Reflexología + 40 min masaje de cuerpo)**: 170,00
 - **Paquete Reflexología 1 (10 min Hidroterapia miembros inferiores + 20 min masaje Reflexología)**: 120,00
-    <h2>Agenda tu cita</h2>
-    <form action="mailto:riverosarita32@gmail.com" method="post" enctype="text/plain">
-      <input type="text" name="nombre" placeholder="Nombre completo" required>
-      <input type="email" name="email" placeholder="Correo electrónico" required>
-      <textarea name="mensaje" rows="5" placeholder="Describe tu consulta o el servicio que necesitas" required></textarea>
-      <button type="submit">Enviar</button>
-    </form>
-  </section>  <footer>
-    <p>&copy; 2025 Rehalife Centro de Fisioterapia. Todos los derechos reservados.</p>
-  </footer>
-</body>
-</html>
+    # Agenda tu cita
+Para agendar tu cita, haz clic en el siguiente enlace para enviarnos un mensaje directo por WhatsApp:  
+[Agenda tu cita en WhatsApp](https://wa.me/59160028904)
