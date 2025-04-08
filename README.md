@@ -31,120 +31,65 @@
 </head>
 <body>
     <header>
-        <h1>Rehalife Bolivia - Lista de Precios</h1>
-    </header>
+        /* archivo styles.css */
 
-    <main>
-        <section>
-            <h2>Agenda</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Sesión</td>
-                    <td>180,00</td>
-                </tr>
-                <tr>
-                    <td>Paquete 10 sesiones</td>
-                    <td>1.740,00</td>
-                </tr>
-            </table>
-        </section>
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
 
-        <section>
-            <h2>Fisioterapia</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Rehabilitación Post Operatoria (Hombro y Rodilla, 12 semanas)</td>
-                    <td>8.100,00</td>
-                </tr>
-            </table>
-        </section>
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
 
-        <section>
-            <h2>Reha-Sport (Rehabilitación Deportiva)</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>2 veces por semana</td>
-                    <td>1.000,00</td>
-                </tr>
-                <tr>
-                    <td>3 veces por semana</td>
-                    <td>1.500,00</td>
-                </tr>
-            </table>
-        </section>
+/* Secciones */
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
 
-        <section>
-            <h2>Cardiometabólico</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Consulta</td>
-                    <td>200,00</td>
-                </tr>
-            </table>
-        </section>
+h2 {
+    color: #333;
+}
 
-        <section>
-            <h2>Ondas de Choque</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Sesión</td>
-                    <td>280,00</td>
-                </tr>
-            </table>
-        </section>
+/* Tablas */
+table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
 
-        <!-- Agrega más secciones según sea necesario -->
-        
-        <section>
-            <h2>Bienestar</h2>
-            <table>
-                <tr>
-                    <th>Servicio</th>
-                    <th>Precio</th>
-                </tr>
-                <tr>
-                    <td>Drenaje Linfático localizado</td>
-                    <td>150,00</td>
-                </tr>
-                <tr>
-                    <td>Madero terapia</td>
-                    <td>200,00</td>
-                </tr>
-                <tr>
-                    <td>Reducción Medidas (paquete de 10 sesiones)</td>
-                    <td>950,00</td>
-                </tr>
-                <tr>
-                    <td>Exfoliación corporal</td>
-                    <td>200,00</td>
-                </tr>
-            </table>
-        </section>
+table, th, td {
+    border: 1px solid #ddd;
+}
 
-        <!-- Agregar más categorías como Nutrición, Psicología, Reflexología, etc. -->
-    </main>
-</body>
-</html>
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
     <h2>Agenda tu cita</h2>
     <form action="mailto:riverosarita32@gmail.com" method="post" enctype="text/plain">
       <input type="text" name="nombre" placeholder="Nombre completo" required>
