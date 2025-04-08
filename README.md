@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <img src="Descarga/rehalife_logo.png" alt="Logo de SARAReha2025" class="logo">
+        <img src="Descarga/rehalife_logo.png" alt="Logo de rehalife_logo.png" class="logo">
     </header>    <h1>Bienvenidos a Rehalife</h1>
     <p>En Rehalife Centro de Fisioterapia, te acompañamos en tu camino hacia una vida saludable y sin dolor. Ofrecemos atención personalizada con profesionales comprometidos con tu bienestar.</p>
   </section>  <section id="servicios">
