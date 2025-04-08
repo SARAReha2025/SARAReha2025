@@ -31,39 +31,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-Lista de Precios - Rehalife Bolivia</title>
-Sesión Fisioterapia 180,00 
-Paquete 10 sesiones 	 1.740,00 
-Rehabilitación Post Operatoria hombro y rodilla 12 semanas	 8.100,00 
-Reha Sport 2 veces por semana	 1.000,00 
-Reha Sport 3 veces por semana	 1.500,00 
-CARDIOMETABOLICO	 200,00 
-ONDAS DE CHOQUE	 280,00 
-ACUPUNTURA	 150,00 
-RECOVERY PREMIUN	 150,00 
-HIDROTERAPIA	 150,00 
-LIBERACION MIOFASCIAL	 70,00 
-PUNCION SECA	 70,00 
-COLOCACIÓN DE TAPPING	 50,00 
-OSTEOPATIA	 250,00 
-Masaje Relajante	 170,00 
-Masaje Descontracturante	 170,00 
-Descarga deportiva	 180,00 
-Limpieza facial	 220,00 
-Embarazada	 200,00 
-Masaje Reflexología 30 min  	 120,00 
-Drenaje Linfático localizado 	 150,00 
-Madero terapia 	 200,00 
-Nutricion Consulta 	 150,00 
-Psicologia Consulta	 200,00 
-Psicologia Sesion	 250,00 
-Psicologia Paquete 12 sesiones  1.810,00 
-Sesión de 30 min	 120,00 
-Paquete Reflexología 2 :                                                 
-20 min masaje Reflexología 40 min masaje de cuerpo  170,00 
-Paquete Reflexología 1                                                      
- 10 min. Hidroterapia miembros inferiores                       
-20 min masaje Reflexología	 120,00
+# Lista de Precios - Rehalife Bolivia
+
+## Fisioterapia
+- **Sesión**: 180,00
+- **Paquete 10 sesiones**: 1.740,00
+- **Rehabilitación Post Operatoria hombro y rodilla (12 semanas)**: 8.100,00
+
+## Reha Sport
+- **2 veces por semana**: 1.000,00
+- **3 veces por semana**: 1.500,00
+
+## Cardiometabólico
+- **Consulta**: 200,00
+
+## Otros Servicios
+- **Ondas de Choque**: 280,00
+- **Acupuntura**: 150,00
+- **Recovery Premium**: 150,00
+- **Hidroterapia**: 150,00
+- **Liberación Miofascial**: 70,00
+- **Punción Seca**: 70,00
+- **Colocación de Tapping**: 50,00
+- **Osteopatía**: 250,00
+- **Masaje Relajante**: 170,00
+- **Masaje Descontracturante**: 170,00
+- **Descarga Deportiva**: 180,00
+- **Limpieza Facial**: 220,00
+- **Embarazada**: 200,00
+- **Masaje Reflexología (30 min)**: 120,00
+
+## Bienestar
+- **Drenaje Linfático Localizado**: 150,00
+- **Madero Terapia**: 200,00
+
+## Nutrición
+- **Consulta**: 150,00
+
+## Psicología
+- **Consulta**: 200,00
+- **Sesión**: 250,00
+- **Paquete 12 sesiones**: 1.810,00
+- **Sesión de 30 min**: 120,00
+
+## Reflexología
+- **Paquete Reflexología 2 (20 min masaje Reflexología + 40 min masaje de cuerpo)**: 170,00
+- **Paquete Reflexología 1 (10 min Hidroterapia miembros inferiores + 20 min masaje Reflexología)**: 120,00
     <h2>Agenda tu cita</h2>
     <form action="mailto:riverosarita32@gmail.com" method="post" enctype="text/plain">
       <input type="text" name="nombre" placeholder="Nombre completo" required>
