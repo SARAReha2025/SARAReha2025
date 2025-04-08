@@ -1,6 +1,9 @@
-    </header>    <h1>Bienvenidos a Rehalife</h1>
-    <p>En Rehalife Centro de Fisioterapia, te acompañamos en tu camino hacia una vida saludable y sin dolor. Ofrecemos atención personalizada con profesionales comprometidos con tu bienestar.</p>
-  </section>  <section id="servicios">
+<h1>FISIOTERAPIA</h1>
+  </header>  <section>
+    <h2>¿Quiénes somos?</h2>
+    <p>Rehalife es una red de centros de fisioterapia avanzada y bienestar en Bolivia. Con tecnología alemana de punta, ofrecemos servicios como rehabilitación, masajes, estética, y más en espacios modernos y confortables.</p>
+    <p>Contamos con sedes en Equipetrol, Norte, Las Palmas, y gabinetes en Country Urubó, Clínica Las Américas y Medical Center.</p>
+  </section>  <section>  </section>  <section id="servicios">
     <h2>Servicios</h2>
     <ul>
       <li>Rehabilitación física</li>
