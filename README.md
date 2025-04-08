@@ -2,51 +2,95 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FISIOTERAPIA 
-<!--     <img src="ruta/descarga/rehal_logo.png/logo.svg" alt="Logo" />  <style> -->
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: #333; }
-    header { background: #2c3e50; color: white; padding: 20px; text-align: center; }
-    header img { max-height: 60px; }
-    section { padding: 30px; max-width: 900px; margin: auto; }
-    h2 { color: #2c3e50; }
-    .video { text-align: center; margin: 30px 0; }
-    iframe { width: 100%; height: 315px; border: none; border-radius: 8px; }
-    footer { background: #2c3e50; color: white; text-align: center; padding: 20px; }
-    .btn { background: #27ae60; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; text-decoration: none; }
+  <title>FISIOTERAPIA | Rehalife</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #e0f7fa;
+      padding: 20px;
+      text-align: center;
+    }
+    header img {
+      max-width: 250px;
+      height: auto;
+    }
+    nav {
+      background-color: #00bcd4;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #00acc1;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+    input, textarea, button {
+      margin: 10px 0;
+      padding: 10px;
+      font-size: 16px;
+    }
+    button {
+      background-color: #00acc1;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    footer {
+      background-color: #ccc;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
   </style>
 </head>
 <body>
   <header>
-    
-  </header>  <section>
-    <h2>¿Quiénes somos?</h2>
-    <p>Rehalife es una red de centros de fisioterapia avanzada y bienestar en Bolivia. Con tecnología alemana de punta, ofrecemos servicios como rehabilitación, masajes, estética, y más en espacios modernos y confortables.</p>
-    <p>Contamos con sedes en Equipetrol, Norte, Las Palmas, y gabinetes en Country Urubó, Clínica Las Américas y Medical Center.</p>
-  </section>  <section>
-    <h2>Servicios principales</h2>
+    <img src="logo-rehalife.png" alt="Rehalife Logo">
+  </header>  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#servicios">Servicios</a>
+    <a href="#contacto">Contacto</a>
+  </nav>  <section id="inicio">
+    <h1>Bienvenidos a Rehalife</h1>
+    <p>En Rehalife Centro de Fisioterapia, te acompañamos en tu camino hacia una vida saludable y sin dolor. Ofrecemos atención personalizada con profesionales comprometidos con tu bienestar.</p>
+  </section>  <section id="servicios">
+    <h2>Servicios</h2>
     <ul>
-      <li>Fisioterapia avanzada</li>
+      <li>Rehabilitación física</li>
+      <li>Terapia manual</li>
+      <li>Electroterapia</li>
       <li>Ejercicios terapéuticos</li>
-      <li>Masajes relajantes, antiestrés y descontracturantes</li>
-      <li>Hidroterapia y mecanoterapia</li>
-      <li>Estética y bienestar</li>
-    </ul><img src="ruta/a/tu/logo.png" alt="Logo">  </section>  <section descarga="video">
-    <h2>Conócenos</h2>
-    <video controls>
-      <source src="https://chat.openai.com/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Fchat-openai-prod%2Fuser-uploads%2Ffile-YFt2znYnHWeeLQKzgoDjym%2Fvideo.mp4" type="video/mp4">
-      Tu navegador no soporta video.
-    </video>
-  </section>  <section>
+      <li>Consultas personalizadas</li>
+    </ul>
+  </section>  <section id="contacto">
     <h2>Agenda tu cita</h2>
-    <p>Puedes agendar directamente desde aquí. Haz clic en el botón y selecciona tu día y hora disponible.</p>
-    <a class="btn" href="https://calendly.com/riverosarita32" target="_blank">Agendar cita</a>
+    <form action="mailto:riverosarita32@gmail.com" method="post" enctype="text/plain">
+      <input type="text" name="nombre" placeholder="Nombre completo" required>
+      <input type="email" name="email" placeholder="Correo electrónico" required>
+      <textarea name="mensaje" rows="5" placeholder="Describe tu consulta o el servicio que necesitas" required></textarea>
+      <button type="submit">Enviar</button>
+    </form>
   </section>  <footer>
-    <p>Contacto: <a href="mailto:riverosarita32@gmail.com">riverosarita32@gmail.com</a></p>
-    <p>&copy; 2025 Rehalife Fisioterapia</p>
+    <p>&copy; 2025 Rehalife Centro de Fisioterapia. Todos los derechos reservados.</p>
   </footer>
 </body>
 </html>
-<video controls>
-    <source src="ruta/a/tu/video.mp4" type="video/mp4">
-    Tu navegador no soporta este formato de video.
-</video>
